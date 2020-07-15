@@ -1,1 +1,1 @@
-# Hackathon-IBM-COIVD
+# Hackathon-IBM-COVID
